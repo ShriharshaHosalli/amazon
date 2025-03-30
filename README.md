@@ -1,3 +1,3 @@
-This is my first Git-Hub Repository
+This is my First Git-Hub Repository
 <br>
                 -Shriharsha Hosalli
