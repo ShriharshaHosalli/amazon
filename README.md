@@ -1,3 +1,3 @@
-this is my first git hub repository
+This is my first Git-Hub Repository
 <br>
-shriharsha Hosalli
+                -Shriharsha Hosalli
